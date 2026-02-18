@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:1565c0&height=160&section=header&text=Hi%20there!%20I'm%20Tanish%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20ML%20%7C%20MLOps&descSize=15&descAlignY=68&descColor=bbdefb" />
+<img src="https://capsule-render.vercel.app/api?type=cloud&color=0:1a237e,100:1565c0&height=200&section=header&text=Hi%20there!%20I'm%20Tanish%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20ML%20%7C%20MLOps&descSize=15&descAlignY=75&descColor=bbdefb" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1565c0&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;MLOps+%7C+Data+Science;Building+end-to-end+ML+systems)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1565c0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishbhilare)
 [![IEEE](https://img.shields.io/badge/IEEE%20Published-1565c0?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/Tashbhilare/Facilitating-Stock-Recommendation-through-Sentiment-Analysis)
@@ -9,7 +11,7 @@
 
 ---
 
-### 🦉 About Me
+### About Me
 
 I'm a Data Science graduate student at Northeastern University with a background in Computer Engineering. I approach data problems with an engineer's mindset — building systems that are scalable, efficient, and impactful.
 
@@ -19,11 +21,11 @@ I break down complex problems, test ideas, iterate fast, and don't stop until I 
 - 🏗️ Data Engineer Intern @ Larsen & Toubro — Microsoft Fabric Lakehouse & Power BI
 - 🏦 Previously @ RBL Bank — ML models at 87% precision across 300K+ records
 - 📄 IEEE-published in NLP-driven stock market prediction
-- 🐺 Currently building **GridSage** — Multi-Agent RL for carbon-aware workload orchestration
+- 🤖 Currently building **GridSage** — Multi-Agent RL for carbon-aware workload orchestration
 
 ---
 
-### 🦊 Skills
+### Skills
 
 **Languages & ML**
 
@@ -50,12 +52,11 @@ I break down complex problems, test ideas, iterate fast, and don't stop until I 
 
 ---
 
-### 🐬 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Tashbhilare&show_icons=true&theme=default&hide_border=true&title_color=1565c0&icon_color=1565c0&text_color=1a237e" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tashbhilare&layout=compact&theme=default&hide_border=true&title_color=1565c0&text_color=1a237e" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tashbhilare&theme=default&hide_border=true&ring=1565c0&fire=1565c0&currStreakLabel=1565c0&sideLabels=1a237e&dates=1a237e)](https://git.io/streak-stats)
 
 </div>
 
@@ -63,7 +64,7 @@ I break down complex problems, test ideas, iterate fast, and don't stop until I 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Cat%20with%20Ball.gif" width="300" alt="cat chasing ball" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cat chasing ball" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565c0,100:1a237e&height=100&section=footer" />
 
