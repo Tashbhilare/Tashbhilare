@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=1565C0&center=true&vCenter=true&width=300&height=80&lines=Hi+there!)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1565c0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishbhilare)
-
 </div>
 
 ---
@@ -20,8 +18,6 @@ Interested in Sports, Hiking and occasionally touching grass.
 
 ### Skills
 
-**Languages & ML**
-
 ![Python](https://img.shields.io/badge/Python-1565c0?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-1565c0?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1565c0?style=flat-square&logo=mysql&logoColor=white)
@@ -29,9 +25,6 @@ Interested in Sports, Hiking and occasionally touching grass.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1565c0?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1565c0?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1565c0?style=flat-square&logo=chainlink&logoColor=white)
-
-**MLOps & Cloud**
-
 ![DVC](https://img.shields.io/badge/DVC-1565c0?style=flat-square&logo=dvc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1565c0?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1565c0?style=flat-square&logo=kubernetes&logoColor=white)
@@ -39,17 +32,11 @@ Interested in Sports, Hiking and occasionally touching grass.
 ![GCP](https://img.shields.io/badge/GCP-1565c0?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-1565c0?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-1565c0?style=flat-square&logo=microsoft&logoColor=white)
-
-**Data & Visualization**
-
 ![Pandas](https://img.shields.io/badge/Pandas-1565c0?style=flat-square&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-1565c0?style=flat-square&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-1565c0?style=flat-square&logo=tableau&logoColor=white)
 ![R Shiny](https://img.shields.io/badge/R%20Shiny-1565c0?style=flat-square&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-1565c0?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**Databases**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1565c0?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1565c0?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1565c0?style=flat-square&logo=mongodb&logoColor=white)
