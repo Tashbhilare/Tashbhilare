@@ -2,41 +2,57 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:1565c0&height=160&section=header&text=Tanish%20Bhilare&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20ML%20%7C%20MLOps&descSize=15&descAlignY=68&descColor=bbdefb" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1565c0?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishbhilare)
-[![Email](https://img.shields.io/badge/Email-1565c0?style=flat-square&logo=gmail&logoColor=white)](mailto:bhilare.t@northeastern.edu)
-[![IEEE](https://img.shields.io/badge/IEEE%20Published-1565c0?style=flat-square&logo=ieee&logoColor=white)](https://github.com/Tashbhilare/Facilitating-Stock-Recommendation-through-Sentiment-Analysis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1565c0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishbhilare)
+[![IEEE](https://img.shields.io/badge/IEEE%20Published-1565c0?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/Tashbhilare/Facilitating-Stock-Recommendation-through-Sentiment-Analysis)
 
 </div>
 
 ---
 
-**ML engineer focused on end-to-end model development, MLOps pipelines, and data systems.** Currently building carbon-aware workload orchestration with Multi-Agent RL at Northeastern. IEEE-published in NLP. Previously shipped ML models at 87% precision across 300K+ records at RBL Bank.
+### About Me
+
+I'm a Data Science graduate student at Northeastern University with a background in Computer Engineering. I approach data problems with an engineer's mindset — building systems that are scalable, efficient, and impactful.
+
+I break down complex problems, test ideas, iterate fast, and don't stop until I find something that actually works. My work spans ML and data engineering: from architecting ETL pipelines and Lakehouse systems to building predictive models that drive real decisions. I care about solutions that reduce manual effort and put data to work.
+
+- 🎓 MS Data Science, Northeastern University (Khoury College)
+- 🏗️ Data Engineer Intern @ Larsen & Toubro — Microsoft Fabric Lakehouse & Power BI
+- 🏦 Previously @ RBL Bank — ML models at 87% precision across 300K+ records
+- 📄 IEEE-published in NLP-driven stock market prediction
+- 🤖 Currently building **GridSage** — Multi-Agent RL for carbon-aware workload orchestration
 
 ---
 
-### Stack
+### Skills
+
+**Languages & ML**
 
 ![Python](https://img.shields.io/badge/Python-1565c0?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-1565c0?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1565c0?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1565c0?style=flat-square&logo=tensorflow&logoColor=white)
 ![R](https://img.shields.io/badge/R-1565c0?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1565c0?style=flat-square&logo=mysql&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-1565c0?style=flat-square&logo=apachespark&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1565c0?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1565c0?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1565c0?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**MLOps & Cloud**
+
 ![DVC](https://img.shields.io/badge/DVC-1565c0?style=flat-square&logo=dvc&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-1565c0?style=flat-square&logo=apachespark&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-1565c0?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-1565c0?style=flat-square&logo=microsoftazure&logoColor=white)
+![Snorkel](https://img.shields.io/badge/Snorkel-1565c0?style=flat-square&logo=python&logoColor=white)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-1565c0?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-1565c0?style=flat-square&logo=powerbi&logoColor=white)
+![R Shiny](https://img.shields.io/badge/R%20Shiny-1565c0?style=flat-square&logo=r&logoColor=white)
 
 ---
 
-### Projects
+### Let's Connect
 
-| | Project | What it does |
-|---|---|---|
-| 🤖 | **GridSage** *(in progress)* | Carbon-aware workload orchestration via Multi-Agent RL — Google Expo Apr 2026 |
-| ⚖️ | **CourtAccess AI** *(in progress)* | Multilingual legal PDF translation pipeline using LLMs |
-| 📈 | [Stock Sentiment Analysis](https://github.com/Tashbhilare/Facilitating-Stock-Recommendation-through-Sentiment-Analysis) | IEEE-published NLP model for stock recommendations |
-| 🏥 | [BRFSS Health Dashboard](https://github.com/Tashbhilare/BRFSS-Health-Dashboard) | R Shiny dashboard over 2.7M+ CDC records, live on shinyapps.io |
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20with%20me-1565c0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishbhilare)
 
 ---
 
