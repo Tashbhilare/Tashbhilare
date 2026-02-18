@@ -9,7 +9,7 @@
 
 ---
 
-### About Me
+### 🦉 About Me
 
 I'm a Data Science graduate student at Northeastern University with a background in Computer Engineering. I approach data problems with an engineer's mindset — building systems that are scalable, efficient, and impactful.
 
@@ -19,11 +19,11 @@ I break down complex problems, test ideas, iterate fast, and don't stop until I 
 - 🏗️ Data Engineer Intern @ Larsen & Toubro — Microsoft Fabric Lakehouse & Power BI
 - 🏦 Previously @ RBL Bank — ML models at 87% precision across 300K+ records
 - 📄 IEEE-published in NLP-driven stock market prediction
-- 🤖 Currently building **GridSage** — Multi-Agent RL for carbon-aware workload orchestration
+- 🐺 Currently building **GridSage** — Multi-Agent RL for carbon-aware workload orchestration
 
 ---
 
-### Skills
+### 🦊 Skills
 
 **Languages & ML**
 
@@ -50,16 +50,20 @@ I break down complex problems, test ideas, iterate fast, and don't stop until I 
 
 ---
 
-### Let's Connect
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20with%20me-1565c0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishbhilare)
-
----
+### 🐬 GitHub Stats
 
 <div align="center">
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=Tashbhilare&show_icons=true&theme=default&hide_border=true&title_color=1565c0&icon_color=1565c0&text_color=1a237e" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tashbhilare&layout=compact&theme=default&hide_border=true&title_color=1565c0&text_color=1a237e" />
+
+</div>
+
+---
+
+<div align="center">
+
+🦁 &nbsp; 🐧 &nbsp; 🦊 &nbsp; 🐺 &nbsp; 🦉
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565c0,100:1a237e&height=100&section=footer" />
 
