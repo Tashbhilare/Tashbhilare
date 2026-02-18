@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:1565c0&height=160&section=header&text=Tanish%20Bhilare&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20ML%20%7C%20MLOps&descSize=15&descAlignY=68&descColor=bbdefb" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a237e,100:1565c0&height=160&section=header&text=Hi%20there!%20I'm%20Tanish%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=MS%20Data%20Science%20%40%20Northeastern%20%7C%20ML%20%7C%20MLOps&descSize=15&descAlignY=68&descColor=bbdefb" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1565c0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishbhilare)
 [![IEEE](https://img.shields.io/badge/IEEE%20Published-1565c0?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/Tashbhilare/Facilitating-Stock-Recommendation-through-Sentiment-Analysis)
@@ -63,7 +63,7 @@ I break down complex problems, test ideas, iterate fast, and don't stop until I 
 
 <div align="center">
 
-🦁 &nbsp; 🐧 &nbsp; 🦊 &nbsp; 🐺 &nbsp; 🦉
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/Cat%20with%20Ball.gif" width="300" alt="cat chasing ball" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565c0,100:1a237e&height=100&section=footer" />
 
