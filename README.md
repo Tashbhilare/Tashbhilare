@@ -1,10 +1,4 @@
-<div align="center">
-
-| | |
-|---|---|
-| <img src="./cat.gif" width="200" alt="cat" /> | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=FF6B00&center=true&vCenter=true&width=400&height=200&lines=Hi+there!)](https://git.io/typing-svg) |
-
-</div>
+<img src="./cat.gif" height="200" alt="cat" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=FF6B00&center=true&vCenter=true&width=300&height=200&lines=Hi+There!" height="200" alt="Hi there!" />
 
 ---
 
@@ -12,7 +6,7 @@
 
 I like solving problems with data. Curious by nature, drawn to anything at the intersection of data science, data engineering, and ML.
 
-My experience spans data engineering and machine learning — from architecting automated ETL pipelines and Lakehouse architectures to building predictive models for customer acquisition. I focus on solutions that don't just work technically, but reduce manual effort and enable faster, data-driven decisions.
+My experience spans data engineering and machine learning, from architecting automated ETL pipelines and Lakehouse architectures to building predictive models for customer acquisition. I focus on solutions that don't just work technically, but reduce manual effort and enable faster, data-driven decisions.
 
 Interested in Sports, Hiking and occasionally touching grass.
 
@@ -48,3 +42,4 @@ Interested in Sports, Hiking and occasionally touching grass.
 ![Git](https://img.shields.io/badge/Git-FF6B00?style=flat-square&logo=git&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF6B00?style=flat-square&logo=dbt&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-FF6B00?style=flat-square&logo=fastapi&logoColor=black)
+
