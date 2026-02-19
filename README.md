@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=FF6B00&center=true&vCenter=true&width=300&height=80&lines=Hi+there!)](https://git.io/typing-svg)
+| | |
+|---|---|
+| <img src="./cat.gif" width="200" alt="cat" /> | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=FF6B00&center=true&vCenter=true&width=400&height=200&lines=Hi+there!)](https://git.io/typing-svg) |
 
 </div>
 
@@ -46,9 +48,3 @@ Interested in Sports, Hiking and occasionally touching grass.
 ![Git](https://img.shields.io/badge/Git-FF6B00?style=flat-square&logo=git&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF6B00?style=flat-square&logo=dbt&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-FF6B00?style=flat-square&logo=fastapi&logoColor=black)
-
----
-
-<div align="center">
-<img src="./cat.gif" width="600" alt="cat" />
-</div>
