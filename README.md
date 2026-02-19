@@ -1,4 +1,4 @@
-<img src="./jpop-j-pop.gif" height="200" alt="cat" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=1565C0&center=true&vCenter=true&width=300&height=200&lines=Hi+there!" height="200" alt="Hi there!" />
+<img src="./cat-1.gif" height="200" alt="cat" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=2000&color=1565C0&center=true&vCenter=true&width=300&height=200&lines=Hi+there!" height="200" alt="Hi there!" />
 
 ---
 
